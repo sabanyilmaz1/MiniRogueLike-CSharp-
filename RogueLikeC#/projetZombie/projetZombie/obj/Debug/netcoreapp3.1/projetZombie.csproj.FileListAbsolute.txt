@@ -1,0 +1,12 @@
+/Users/yilmazsaban/Desktop/projet-2021-gr1_yilmaz_saracco/projetZombie/projetZombie/obj/Debug/netcoreapp3.1/projetZombie.csprojAssemblyReference.cache
+/Users/yilmazsaban/Desktop/projet-2021-gr1_yilmaz_saracco/projetZombie/projetZombie/obj/Debug/netcoreapp3.1/projetZombie.AssemblyInfoInputs.cache
+/Users/yilmazsaban/Desktop/projet-2021-gr1_yilmaz_saracco/projetZombie/projetZombie/obj/Debug/netcoreapp3.1/projetZombie.AssemblyInfo.cs
+/Users/yilmazsaban/Desktop/projet-2021-gr1_yilmaz_saracco/projetZombie/projetZombie/obj/Debug/netcoreapp3.1/projetZombie.csproj.CoreCompileInputs.cache
+/Users/yilmazsaban/Desktop/projet-2021-gr1_yilmaz_saracco/projetZombie/projetZombie/bin/Debug/netcoreapp3.1/projetZombie.deps.json
+/Users/yilmazsaban/Desktop/projet-2021-gr1_yilmaz_saracco/projetZombie/projetZombie/bin/Debug/netcoreapp3.1/projetZombie.runtimeconfig.json
+/Users/yilmazsaban/Desktop/projet-2021-gr1_yilmaz_saracco/projetZombie/projetZombie/bin/Debug/netcoreapp3.1/projetZombie.runtimeconfig.dev.json
+/Users/yilmazsaban/Desktop/projet-2021-gr1_yilmaz_saracco/projetZombie/projetZombie/bin/Debug/netcoreapp3.1/projetZombie.dll
+/Users/yilmazsaban/Desktop/projet-2021-gr1_yilmaz_saracco/projetZombie/projetZombie/bin/Debug/netcoreapp3.1/projetZombie.pdb
+/Users/yilmazsaban/Desktop/projet-2021-gr1_yilmaz_saracco/projetZombie/projetZombie/obj/Debug/netcoreapp3.1/projetZombie.dll
+/Users/yilmazsaban/Desktop/projet-2021-gr1_yilmaz_saracco/projetZombie/projetZombie/obj/Debug/netcoreapp3.1/projetZombie.pdb
+/Users/yilmazsaban/Desktop/projet-2021-gr1_yilmaz_saracco/projetZombie/projetZombie/obj/Debug/netcoreapp3.1/projetZombie.genruntimeconfig.cache
